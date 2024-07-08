@@ -33,7 +33,7 @@ The external dependencies needed are:
 
 2. Use the following command to clone the ProjectName repository:
 
-git clone https://github.com/SSID98/simple_shopping_app_hng.git
+https://github.com/SSID98/timbu.git
 
 ### Configuration
 
